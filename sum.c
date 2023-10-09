@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-int a,b,c;
+int a,b,c,sum;
 a=5;
 b=11;
 c=9;
